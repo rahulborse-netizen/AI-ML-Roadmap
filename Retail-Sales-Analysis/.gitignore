@@ -1,0 +1,18 @@
+# Virtual environment
+venv/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+
+# Temporary notebooks
+Untitled*.ipynb
+
+# Test images
+test.png
