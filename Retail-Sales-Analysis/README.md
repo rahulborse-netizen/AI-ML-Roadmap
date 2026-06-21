@@ -1,36 +1,23 @@
 # Retail Sales Analysis
 
-This project analyzes retail sales data using Python, Pandas, NumPy, and Matplotlib.
-
 ## Project Objective
 
-The goal is to perform Exploratory Data Analysis (EDA) on retail sales data and generate business insights.
+Analyze retail sales data and identify patterns using Python.
 
-## Skills Demonstrated
-
-- Data Cleaning
-- Exploratory Data Analysis (EDA)
-- Feature Engineering
-- Data Visualization
-- Business Insights
-- Git & GitHub
-
-## Project Structure
-
-Retail-Sales-Analysis/
-├── data/
-├── notebooks/
-├── src/
-├── images/
-├── requirements.txt
-└── README.md
-
-## Tools Used
+## Skills Used
 
 - Python
-- Pandas
 - NumPy
-- Matplotlib
-- Jupyter Notebook
-- Git
-- GitHub
+- Pandas
+- Data Cleaning
+- Exploratory Data Analysis
+- Data Visualization
+
+## Analysis Performed
+
+- Missing value analysis
+- Data type correction
+- Statistical analysis
+- Sales trends
+- Category performance
+- Correlation analysis
